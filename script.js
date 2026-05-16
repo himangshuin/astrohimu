@@ -135,5 +135,5 @@ document.querySelectorAll('.card, .testimonial-card, article').forEach((el, i) =
 })();
 
 // Console signature
-console.log('%c✦ Tarot With Himu ✦', 'color: #c9a84c; font-family: serif; font-size: 18px; font-weight: bold;');
-console.log('%cBest Tarot Reader in Guwahati · support@tarotwithhimu.com', 'color: #8a6c2a; font-size: 12px;');
+console.log('%c✦ Astro Himu ✦', 'color: #c9a84c; font-family: serif; font-size: 18px; font-weight: bold;');
+console.log('%cBest Tarot Reader in Guwahati · support@astrohimu.com', 'color: #8a6c2a; font-size: 12px;');
